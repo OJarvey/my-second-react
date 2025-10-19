@@ -1,7 +1,7 @@
 	# Netlify configuration for React app deployment
 	[build]
 	  # Directory where the build command is run
-	  base = "myfirstreact"
+	  base = "reactproject2"
 	  
 	  # Build command - install dependencies first, then build
 	  command = "npm install && npm run build"
